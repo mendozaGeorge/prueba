@@ -1,0 +1,10 @@
+body{
+    background-color:black;
+}
+
+.hola{
+    text-align: center;
+    font-family:cursive;
+    font-size: 60px;
+    color: white;
+}
